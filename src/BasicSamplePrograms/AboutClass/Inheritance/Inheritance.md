@@ -1,7 +1,5 @@
 # Inheritance
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương inheritance, các phần `extends`, `this`, `super`, method overriding và overloading.
-
 ## Kế thừa
 
 Kế thừa cho phép class con nhận fields và methods từ class cha. Java dùng từ khóa `extends`.

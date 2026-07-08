@@ -1,7 +1,5 @@
 # Constructors
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương introducing classes, phần constructors, parameterized constructors và `this`.
-
 ## Constructor là gì?
 
 Constructor là khối lệnh đặc biệt chạy khi tạo object bằng `new`. Constructor có tên giống class và không có kiểu trả về.

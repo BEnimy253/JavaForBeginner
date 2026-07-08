@@ -1,7 +1,5 @@
 # Abstract
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương inheritance, phần using abstract classes.
-
 ## abstract class
 
 Abstract class là class chưa hoàn chỉnh để tạo object trực tiếp. Nó thường đóng vai trò class cha, định nghĩa phần chung cho các class con.

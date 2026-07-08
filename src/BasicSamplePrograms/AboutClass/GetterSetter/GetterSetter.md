@@ -1,7 +1,5 @@
 # GetterSetter
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, các phần access control, methods và class design cơ bản.
-
 ## Getter và setter là gì?
 
 Getter là method dùng để đọc giá trị field. Setter là method dùng để thay đổi giá trị field.

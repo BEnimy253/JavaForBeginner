@@ -1,7 +1,5 @@
 # ExceptionProcessing
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương exception handling, các phần `try`, `catch`, multiple catch và `finally`.
-
 ## Exception là gì?
 
 Exception là tình huống bất thường xảy ra khi chương trình đang chạy, ví dụ chia cho 0, nhập sai định dạng số, truy cập phần tử mảng không tồn tại hoặc không tìm thấy tệp.

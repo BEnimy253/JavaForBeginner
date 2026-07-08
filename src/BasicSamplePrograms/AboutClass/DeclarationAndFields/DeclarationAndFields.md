@@ -1,7 +1,5 @@
 # DeclarationAndFields
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương introducing classes, phần class fundamentals, objects và fields.
-
 ## Khai báo class
 
 Class là bản thiết kế để tạo object. Một class thường chứa fields và methods.

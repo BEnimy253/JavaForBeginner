@@ -1,7 +1,5 @@
 # AccessModifiers
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương a closer look at methods and classes, phần access control.
-
 ## Access modifier là gì?
 
 Access modifier quy định phạm vi có thể truy cập class, field, constructor hoặc method.

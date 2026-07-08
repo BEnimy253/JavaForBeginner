@@ -1,7 +1,5 @@
 # Polymorphism
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương inheritance, phần method overriding và dynamic method dispatch.
-
 ## Đa hình là gì?
 
 Đa hình cho phép một biến kiểu cha hoặc kiểu interface tham chiếu đến nhiều object con khác nhau. Khi gọi method đã override, Java chọn phiên bản method theo object thật đang được giữ.

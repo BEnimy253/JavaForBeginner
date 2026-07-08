@@ -1,7 +1,5 @@
 # Branch
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương control statements, phần `if`.
-
 ## Câu lệnh if
 
 `if` cho phép chương trình chỉ thực hiện một khối lệnh khi điều kiện đúng.

@@ -1,7 +1,5 @@
 # Methods
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương introducing classes và a closer look at methods and classes.
-
 ## Method là gì?
 
 Method là khối lệnh có tên, dùng để thực hiện một công việc. Method giúp chia chương trình thành các phần nhỏ, dễ đọc và dễ tái sử dụng.

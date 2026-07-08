@@ -1,7 +1,5 @@
 # BasicInAndOutStream
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, các phần giới thiệu `System.out`, `System.in`, `Scanner` và comments.
-
 ## Luồng nhập chuẩn
 
 `System.in` là luồng nhập chuẩn của Java. Trong chương trình console, nguồn nhập mặc định thường là bàn phím. Vì `System.in` làm việc ở mức luồng byte nên người mới thường dùng lớp `Scanner` để đọc dữ liệu dễ hơn.

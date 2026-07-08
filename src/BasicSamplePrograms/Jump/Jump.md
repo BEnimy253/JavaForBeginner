@@ -1,7 +1,5 @@
 # Jump
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương control statements phần traditional `switch` và chương về switch expressions.
-
 ## switch truyền thống
 
 `switch` là cấu trúc rẽ nhánh nhiều lựa chọn. Nó thường dùng khi một biểu thức cần so khớp với nhiều giá trị cụ thể.

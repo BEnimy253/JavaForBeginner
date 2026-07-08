@@ -1,7 +1,5 @@
 # Interface
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương packages and interfaces.
-
 ## Interface là gì?
 
 Interface mô tả một nhóm hành vi mà class cần cung cấp. Class dùng từ khóa `implements` để thực hiện interface.

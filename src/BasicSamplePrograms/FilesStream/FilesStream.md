@@ -1,7 +1,5 @@
 # FilesStream
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương I/O và phần `java.io.File`.
-
 ## java.io.File
 
 `File` biểu diễn tên đường dẫn của một tệp tin hoặc thư mục. `File` không trực tiếp đọc nội dung byte/ký tự như stream, nhưng nó giúp kiểm tra và xử lý thông tin hệ thống tệp.

@@ -1,7 +1,5 @@
 # VariablesAndDataTypes
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương về data types, variables, arrays và chương operators.
-
 ## Biến
 
 Biến là vùng nhớ có tên dùng để lưu dữ liệu trong chương trình. Java là ngôn ngữ kiểm tra kiểu chặt, vì vậy mỗi biến phải có kiểu dữ liệu rõ ràng.

@@ -1,7 +1,5 @@
 # Loop
 
-Tài liệu tham chiếu chính: `reference_docs/Java_ The Complete Reference, T - Herbert Schildt.pdf`, chương control statements, các phần `for`, `while`, `do-while` và nested loops.
-
 ## Vòng lặp là gì?
 
 Vòng lặp giúp chương trình thực hiện lặp lại một công việc cho đến khi điều kiện dừng được thỏa mãn. Khi viết vòng lặp, cần xác định rõ:
